@@ -1,4 +1,4 @@
-package lvl2exercise1
+package exercise1
 
 import "fmt"
 
