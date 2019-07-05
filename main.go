@@ -7,6 +7,7 @@ import (
 	ex2 "github.com/solairerove/go-ninja-lvl-2-playground/exercise2"
 	ex3 "github.com/solairerove/go-ninja-lvl-2-playground/exercise3"
 	ex4 "github.com/solairerove/go-ninja-lvl-2-playground/exercise4"
+	ex5 "github.com/solairerove/go-ninja-lvl-2-playground/exercise5"
 )
 
 func main() {
@@ -27,4 +28,9 @@ func main() {
 
 	fmt.Println("ex4()")
 	ex4.Ex4()
+
+	fmt.Println()
+
+	fmt.Println("ex5()")
+	ex5.Ex5()
 }
